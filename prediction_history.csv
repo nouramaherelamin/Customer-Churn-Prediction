@@ -1,0 +1,3 @@
+Timestamp,State,Account Length,Area Code,International Plan,Voice Mail Plan,Number Vmail Messages,Total Day Minutes,Total Day Calls,Total Day Charge,Total Eve Minutes,Total Eve Calls,Total Eve Charge,Total Night Minutes,Total Night Calls,Total Night Charge,Total Intl Minutes,Total Intl Calls,Total Intl Charge,Customer Service Calls,Churn Probability,Risk Level,Prediction,Suggested Action
+2026-09-19 05:37:27,AK,100,408,No,No,25,180.0,100,30.0,200.0,100,17.0,200.0,100,9.0,10.0,4,2.7,1,13.36,Low Risk,No Churn,Continue normal engagement and monitor customer behavior.
+2026-09-19 05:37:51,AK,100,408,No,No,25,180.0,100,30.0,200.0,100,17.0,200.0,100,9.0,10.0,4,2.7,10,51.78,Medium Risk,Churn,Review service experience and monitor the customer more closely.
